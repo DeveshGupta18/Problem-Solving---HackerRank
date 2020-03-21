@@ -21,7 +21,7 @@ public class FlatlandSpaceStation {
     }
 
     public static void main(String[] args) {
-        int c[] = {0,4};
-        System.out.println(flatlandSpaceStations(5, c));
+        int c[] = {13,1,11,10,6};
+        System.out.println(flatlandSpaceStations(20, c));
     }
 }
